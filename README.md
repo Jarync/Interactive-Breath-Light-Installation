@@ -43,8 +43,7 @@ Based on the circuit design, the following components are required:
 
 The diagram below illustrates the "One-to-Many" connection strategy. The **8 strips** are physically divided into 3 logical groups to share data pins.
 
-<img width="3521" height="3319" alt="microphone_light_bb" src="https://github.com/user-attachments/assets/ca18deb1-0510-4fe8-ab64-ef56c8539f7e" />
-
+<img width="11736" height="11065" alt="microphone_light" src="https://github.com/user-attachments/assets/6e5c9691-3964-4862-935e-dc898ce2d723" />
 
 ### Pin Configuration
 * **Microphone Sensor:**
